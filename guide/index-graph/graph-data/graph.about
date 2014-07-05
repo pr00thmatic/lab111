@@ -1,0 +1,5 @@
+graph.label contiene, en su iésima línea (1-based), el título del iésimo tema
+
+el input es así:
+vertices edges
+(x i <=> x depende de i)*edges
